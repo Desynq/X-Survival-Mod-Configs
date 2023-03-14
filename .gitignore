@@ -1,0 +1,11 @@
+# don't want to include mojmaps
+/carpettisaddition/
+
+# contains repositories and a bunch of large files
+/openloader/
+
+# contains usernames
+/voicechat/username-cache.json
+
+# already in a repository
+/worldedit/
