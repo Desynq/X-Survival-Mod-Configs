@@ -13,7 +13,7 @@
   "pot_hor": false,
   "arm_toggle": true,
   "arm_above": 100,
-  "arm_view": "damage-left",
+  "arm_view": "percentage",
   "move_all": true,
   "show_empty": false,
   "show_armor": true,
